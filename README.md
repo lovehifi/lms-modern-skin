@@ -18,3 +18,5 @@ Like this, a sample image from https://impossibleimages.ai
 >
 ![Screenshot](LMS-skin-2.jpg)
 
+Free background:
+https://www.freepik.com/search?format=search&query=Colorful%20equalizer%20wave%20background
