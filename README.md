@@ -12,6 +12,5 @@ Download and Extract
 >
 Delete the cache of your browser.
 
-![Screenshot](LogitechMediaServer-skin.png)
+![Screenshot](LMS-skin.png)
 
-![Screenshot](LMS.jpg)
