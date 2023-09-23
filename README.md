@@ -18,5 +18,6 @@ Like this, a sample image from https://impossibleimages.ai
 >
 ![Screenshot](LMS-skin-2.jpg)
 
+![Screenshot](LMS-skin-3.jpg)
 
-[Free background at freepik.com](https://www.freepik.com/search?format=search&page=2&query=equalizer+wave+background)
+[Free the background at freepik.com](https://www.freepik.com/search?format=search&page=2&query=equalizer+wave+background)
