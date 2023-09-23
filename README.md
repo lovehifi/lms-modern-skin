@@ -11,7 +11,7 @@ You can replace the background image with the name 'cover.jpg' at the location:
 >
 > /opt/logitechmediaserver-git/HTML/Default/html/images/cover.jpg.
 >
-Like this, a sample image [![Sample Image](https://cdn.impossibleimages.ai/wp-content/uploads/2023/04/25130515/background-image-generators.jpg)](https://cdn.impossibleimages.ai/wp-content/uploads/2023/04/25130515/background-image-generators.jpg)
+Like this, a sample image from https://impossibleimages.ai [![Sample Image](https://cdn.impossibleimages.ai/wp-content/uploads/2023/04/25130515/background-image-generators.jpg)](https://cdn.impossibleimages.ai/wp-content/uploads/2023/04/25130515/background-image-generators.jpg)
 
 
 ![Screenshot](LMS-skin-2.jpg)
