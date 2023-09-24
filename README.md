@@ -9,9 +9,9 @@ Delete the cache of your browser.
 
 ![Screenshot](LMS-skin.png)
 
-You can replace the background image with the name 'cover.jpg' at the location:
+You can replace the background image with the name 'background.jpg' at the location:
 >
-> /opt/logitechmediaserver-git/HTML/Default/html/images/cover.jpg.
+> /opt/logitechmediaserver-git/HTML/Default/html/images/background.jpg.
 >
 Like this, a sample image from https://impossibleimages.ai
 >
