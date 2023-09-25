@@ -1,6 +1,9 @@
 # LMS modern-skin for LMS-rAudio
 LMS on rAudio (https://github.com/rern/rAudio)
 >
+> The CSS is based on "slimserver.css" from Logitech Media Server and "skin.css" from the DarkDefaultSkin plugin by AF (https://github.com/AF-1/lms-darkdefaultskin).
+
+>
 Download css, image and Extract
 > wget -O - https://raw.githubusercontent.com/lovehifi/lms-modern-skin/main/install.sh | sh
 >
