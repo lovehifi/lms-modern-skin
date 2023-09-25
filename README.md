@@ -34,3 +34,11 @@ Like this, a sample image from https://impossibleimages.ai
 
 ![Screenshot](LMS-skin-6.jpg)
 >
+For Debian
+>
+css.tgz extract to:
+> \usr\share\squeezeboxserver\HTML\Default\
+>
+image.tgz extract to:
+>
+> \usr\share\squeezeboxserver\HTML\Default\html\images\
