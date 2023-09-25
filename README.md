@@ -36,9 +36,9 @@ Like this, a sample image from https://impossibleimages.ai
 >
 For Debian (Volumio, etc)
 >
-css.tgz extract to:
+extract css.tgz to:
 > \usr\share\squeezeboxserver\HTML\Default\
 >
-image.tgz extract to:
+extract image.tgz to:
 >
 > \usr\share\squeezeboxserver\HTML\Default\html\images\
