@@ -31,4 +31,6 @@ Like this, a sample image from https://impossibleimages.ai
 ![Screenshot](LMS-skin-4.jpg)
 >
 ![Screenshot](LMS-skin-setting.jpg)
+
+![Screenshot](LMS-skin-6.jpg)
 >
