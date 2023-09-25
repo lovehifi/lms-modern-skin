@@ -34,7 +34,7 @@ Like this, a sample image from https://impossibleimages.ai
 
 ![Screenshot](LMS-skin-6.jpg)
 >
-For Debian
+For Debian (Volumio, etc)
 >
 css.tgz extract to:
 > \usr\share\squeezeboxserver\HTML\Default\
