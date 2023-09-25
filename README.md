@@ -5,7 +5,7 @@ Download css, image and Extract
 > wget -O - https://raw.githubusercontent.com/lovehifi/lms-modern-skin/main/install.sh | sh
 >
 >
-Delete the cache of your browser.
+Clear the cache of your browser.
 
 ![Screenshot](LMS-skin.png)
 
